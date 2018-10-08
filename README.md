@@ -1,3 +1,7 @@
+THP Montpellier Pair programming Lea Leipp (lea-lp) / Arthur Vouloir (VAJangoFett)
+
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
