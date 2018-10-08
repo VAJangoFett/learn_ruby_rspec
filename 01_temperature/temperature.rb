@@ -6,3 +6,4 @@ end
 def ctof (cel)
 	puts ((cel * 9.0/5.0) + 32)
 end
+
